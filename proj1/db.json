@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "adhar_no": "225716548932",
+      "holder_name": "pratik korde",
+      "address": "satara",
+      "id": 3
+    },
+    {
+      "adhar_no": "7854693215",
+      "holder_name": "ravi ",
+      "address": "nagar",
+      "id": 4
+    },
+    {
+      "adhar_no": "789654123524",
+      "holder_name": "mangle",
+      "address": "chandrapur",
+      "id": 5
+    },
+    {
+      "adhar_no": "789652315896",
+      "holder_name": "mangle cjc",
+      "address": "pune",
+      "id": 6
+    }
+  ]
+}
